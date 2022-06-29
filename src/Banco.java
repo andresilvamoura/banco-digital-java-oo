@@ -1,6 +1,6 @@
 
-public class Banco {
-
+public class Banco { 
+	
 	private String nome;
 	
 	
